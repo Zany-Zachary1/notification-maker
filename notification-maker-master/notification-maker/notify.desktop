@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/share/notification-maker/notify.sh
+Name=Notification Maker
+Icon=/usr/share/notification-maker/bell.png
+GenericName[en_US]=Make a Notification
+Comment[en_US]=Was hard to code
+Name[en_US]=Notification Maker
