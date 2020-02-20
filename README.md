@@ -1,8 +1,8 @@
 	****************************************************
-	*WARNING: DO NOT RUN install.sh TWICE		           *
-	*WILL RUIN SYSTEM				                           *
-	*DELETE AFTER INSTALL COMPLETED			               *
-	*						                                       *
+	*WARNING: DO NOT RUN install.sh TWICE              *
+	*WILL RUIN SYSTEM	                           *
+	*DELETE AFTER INSTALL COMPLETED		           *
+	*		                                   *
 	*                                                  *
 	*                                                  *
 	*Made By: Zachary Gough                            *
